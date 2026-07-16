@@ -6,7 +6,8 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 
 ## 📌 Languages Used
 - Python 🐍
-- C++ 💻 (Coming Soon)
+- C++ 💻 
+- JAVA 
 
 ## 🎯 Goals
 - Solve LeetCode problems consistently.
