@@ -33,3 +33,11 @@ More solutions will be added automatically as I solve new problems.
 ---
 
 ⭐ If you find this repository helpful, feel free to star it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+<!---LeetCode Topics End-->
