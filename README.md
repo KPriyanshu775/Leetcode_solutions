@@ -39,5 +39,14 @@ More solutions will be added automatically as I solve new problems.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
