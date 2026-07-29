@@ -82,6 +82,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -142,10 +143,12 @@ More solutions will be added automatically as I solve new problems.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -169,4 +172,16 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
