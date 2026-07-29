@@ -83,6 +83,7 @@ More solutions will be added automatically as I solve new problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +96,5 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
