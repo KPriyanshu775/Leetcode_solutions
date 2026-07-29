@@ -47,6 +47,7 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -54,6 +55,7 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Dynamic Programming
@@ -88,6 +90,7 @@ More solutions will be added automatically as I solve new problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0027-remove-element/) | Easy |
+| [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -107,6 +110,7 @@ More solutions will be added automatically as I solve new problems.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
