@@ -114,4 +114,12 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 <!---LeetCode Topics End-->
