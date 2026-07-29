@@ -83,6 +83,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0027-remove-element/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -93,6 +94,7 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 | Problem Name | Difficulty |
