@@ -66,6 +66,7 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@ More solutions will be added automatically as I solve new problems.
 | [0191-number-of-1-bits](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
