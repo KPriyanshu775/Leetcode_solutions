@@ -41,6 +41,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2235-add-two-integers](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
