@@ -64,6 +64,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -104,6 +105,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0027-remove-element/) | Easy |
@@ -222,6 +224,7 @@ More solutions will be added automatically as I solve new problems.
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Design
 | Problem Name | Difficulty |
