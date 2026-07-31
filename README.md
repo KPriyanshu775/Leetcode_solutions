@@ -107,6 +107,7 @@ More solutions will be added automatically as I solve new problems.
 | [0048-rotate-image](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0136-single-number/) | Easy |
@@ -157,6 +158,7 @@ More solutions will be added automatically as I solve new problems.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Binary Search
@@ -247,4 +249,5 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
