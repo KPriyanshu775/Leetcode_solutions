@@ -65,6 +65,7 @@ More solutions will be added automatically as I solve new problems.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -101,6 +102,7 @@ More solutions will be added automatically as I solve new problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -157,6 +159,7 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
