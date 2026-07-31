@@ -54,6 +54,7 @@ More solutions will be added automatically as I solve new problems.
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ More solutions will be added automatically as I solve new problems.
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -145,6 +147,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
