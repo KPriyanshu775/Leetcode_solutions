@@ -49,6 +49,7 @@ More solutions will be added automatically as I solve new problems.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -106,6 +107,7 @@ More solutions will be added automatically as I solve new problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
