@@ -51,6 +51,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
@@ -109,6 +110,7 @@ More solutions will be added automatically as I solve new problems.
 | [0053-maximum-subarray](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0136-single-number/) | Easy |
@@ -252,4 +254,5 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
