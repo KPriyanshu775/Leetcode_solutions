@@ -50,6 +50,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -106,6 +107,7 @@ More solutions will be added automatically as I solve new problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -132,6 +134,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0015-3sum](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -160,6 +163,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -191,6 +195,7 @@ More solutions will be added automatically as I solve new problems.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Quickselect
