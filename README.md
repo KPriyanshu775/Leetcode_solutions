@@ -104,6 +104,7 @@ More solutions will be added automatically as I solve new problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
@@ -137,6 +138,7 @@ More solutions will be added automatically as I solve new problems.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Simulation
@@ -149,6 +151,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -220,4 +223,8 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
