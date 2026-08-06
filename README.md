@@ -47,6 +47,7 @@ More solutions will be added automatically as I solve new problems.
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@ More solutions will be added automatically as I solve new problems.
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ More solutions will be added automatically as I solve new problems.
 | [0704-binary-search](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0704-binary-search/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -232,6 +235,7 @@ More solutions will be added automatically as I solve new problems.
 | [0169-majority-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
