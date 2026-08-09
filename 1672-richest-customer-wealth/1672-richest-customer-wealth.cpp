@@ -1,16 +1,18 @@
 class Solution {
 public:
     int maximumWealth(vector<vector<int>>& accounts) {
-        int max_wealth = 0;
-        for (const auto& customer : accounts) {
-            int current_wealth = 0;
-            for (int bank : customer) {
-                current_wealth += bank;
+        int richest = 0;
+        for(int i = 0; i < accounts.size();i++){
+            int wealth = 0;
+            for(int j = 0; j < accounts[i].size(); j++){
+                wealth = wealth + accounts[i][j];
+
             }
-            if (current_wealth > max_wealth) {
-                max_wealth = current_wealth;
+            if(wealth > richest){
+                richest = wealth;
+
             }
         }
-        return max_wealth;
-    }
+            return richest;
+        }
 };
