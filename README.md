@@ -126,6 +126,7 @@ More solutions will be added automatically as I solve new problems.
 | [0053-maximum-subarray](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -190,6 +191,7 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -289,6 +291,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Linked List
