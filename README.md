@@ -76,6 +76,7 @@ More solutions will be added automatically as I solve new problems.
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -101,6 +102,7 @@ More solutions will be added automatically as I solve new problems.
 | [0290-word-pattern](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Dynamic Programming
@@ -297,6 +299,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0169-majority-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Quickselect
@@ -386,4 +389,8 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0202-happy-number/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
