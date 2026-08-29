@@ -281,6 +281,7 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 ## Greedy
@@ -304,6 +305,7 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
