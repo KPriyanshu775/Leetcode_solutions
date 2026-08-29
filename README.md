@@ -68,6 +68,7 @@ More solutions will be added automatically as I solve new problems.
 | [0073-set-matrix-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
@@ -94,6 +95,7 @@ More solutions will be added automatically as I solve new problems.
 | [0125-valid-palindrome](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
