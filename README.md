@@ -98,10 +98,12 @@ More solutions will be added automatically as I solve new problems.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0100-same-tree/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0100-same-tree/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -232,11 +234,13 @@ More solutions will be added automatically as I solve new problems.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0100-same-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0100-same-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Bit Manipulation
