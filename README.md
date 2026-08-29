@@ -46,6 +46,7 @@ More solutions will be added automatically as I solve new problems.
 | [0048-rotate-image](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
@@ -84,6 +85,7 @@ More solutions will be added automatically as I solve new problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0068-text-justification/) | Hard |
 | [0125-valid-palindrome](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -220,6 +222,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0068-text-justification/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -262,6 +265,7 @@ More solutions will be added automatically as I solve new problems.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0191-number-of-1-bits/) | Easy |
