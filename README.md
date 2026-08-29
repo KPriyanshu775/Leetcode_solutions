@@ -82,6 +82,7 @@ More solutions will be added automatically as I solve new problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0068-text-justification](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0068-text-justification/) | Hard |
 | [0125-valid-palindrome](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
@@ -136,6 +137,7 @@ More solutions will be added automatically as I solve new problems.
 | [0056-merge-intervals](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -201,6 +203,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0068-text-justification](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0068-text-justification/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
