@@ -45,6 +45,7 @@ More solutions will be added automatically as I solve new problems.
 | [0013-roman-to-integer](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
@@ -134,6 +135,7 @@ More solutions will be added automatically as I solve new problems.
 | [0054-spiral-matrix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0066-plus-one](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
