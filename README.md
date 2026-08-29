@@ -49,6 +49,7 @@ More solutions will be added automatically as I solve new problems.
 | [0067-add-binary](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0202-happy-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
@@ -66,6 +67,7 @@ More solutions will be added automatically as I solve new problems.
 | [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
@@ -195,6 +197,7 @@ More solutions will be added automatically as I solve new problems.
 | [0088-merge-sorted-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -375,4 +378,8 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
