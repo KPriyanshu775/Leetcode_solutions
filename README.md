@@ -42,6 +42,7 @@ More solutions will be added automatically as I solve new problems.
 | [0002-add-two-numbers](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
@@ -57,6 +58,7 @@ More solutions will be added automatically as I solve new problems.
 | [0001-two-sum](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
@@ -73,6 +75,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
