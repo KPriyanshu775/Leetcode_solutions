@@ -140,6 +140,7 @@ More solutions will be added automatically as I solve new problems.
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -184,6 +185,7 @@ More solutions will be added automatically as I solve new problems.
 | [0560-subarray-sum-equals-k](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0704-binary-search/) | Easy |
+| [0912-sort-an-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -228,6 +230,7 @@ More solutions will be added automatically as I solve new problems.
 | [0349-intersection-of-two-arrays](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0912-sort-an-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Prefix Sum
@@ -267,6 +270,7 @@ More solutions will be added automatically as I solve new problems.
 | [0190-reverse-bits](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -297,6 +301,7 @@ More solutions will be added automatically as I solve new problems.
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0912-sort-an-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +369,7 @@ More solutions will be added automatically as I solve new problems.
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -397,4 +403,12 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
