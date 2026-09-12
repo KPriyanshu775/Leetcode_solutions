@@ -411,4 +411,8 @@ More solutions will be added automatically as I solve new problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0912-sort-an-array/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
