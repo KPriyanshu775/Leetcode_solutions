@@ -50,6 +50,7 @@ More solutions will be added automatically as I solve new problems.
 | [0067-add-binary](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0189-rotate-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0263-ugly-number/) | Easy |
@@ -174,6 +175,7 @@ More solutions will be added automatically as I solve new problems.
 | [0136-single-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -208,6 +210,7 @@ More solutions will be added automatically as I solve new problems.
 | [0088-merge-sorted-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/KPriyanshu775/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/KPriyanshu775/Leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
